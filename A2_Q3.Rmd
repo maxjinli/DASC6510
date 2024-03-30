@@ -1,6 +1,6 @@
 ---
 title: "DS6510 A2 Q3"
-author: "Max Li - T00734084"
+author: "Max Li"
 date: "2024-03-28"
 output: pdf_document
 ---
